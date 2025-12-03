@@ -5,6 +5,10 @@
 [![Python 3.9+](https://img.shields.io/badge/python-3.9+-blue.svg)](https://www.python.org/downloads/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
+## 🌐 Live Demo
+
+Experience the live application here: **[https://tweets-sentiment-intelligence.streamlit.app/](https://tweets-sentiment-intelligence.streamlit.app/)**
+
 A powerful and interactive web application built with Streamlit to perform real-time sentiment analysis on Twitter profiles and hashtags. This tool leverages an ensemble of state-of-the-art transformer models and classical machine learning algorithms to provide highly accurate sentiment insights, complete with comprehensive visualizations.
 
 <!-- 
