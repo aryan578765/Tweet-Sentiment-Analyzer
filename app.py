@@ -174,7 +174,7 @@ def fetch_tweets(query, max_tweets, days_ago):
     """Fetch tweets with API and fallback to sample data."""
     try:
         import tweepy
-        bearer_token = "AAAAAAAAAAAAAAAAAAAAAIoF3wEAAAAAkKhBzYMZmegOlBZp0f075MvBEiA%3DiRAcUZut1As19bvpKVSzDVe4NXcjlM3lyDTurx54FvXqpPQuaD"
+        bearer_token = "AAAAAAAAAAAAAAAAAAAAAOlk4QEAAAAAAtgHprjawNeIe5J3q0%2BeAThGDmM%3D4ZI9ahCCl9nvTKtDBBOnDsD7Z2iH5qCtPfNfSpsFKUGxZbqcZS"
         client = tweepy.Client(bearer_token)
         start_time = datetime.datetime.now(datetime.timezone.utc) - datetime.timedelta(days=days_ago)
         
