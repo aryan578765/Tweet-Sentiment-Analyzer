@@ -4,8 +4,6 @@ Professional Twitter Sentiment Analysis System - Streamlit App
 This app provides a high-accuracy sentiment analysis of Twitter profiles and hashtags
 using state-of-the-art models and optimized processing techniques.
 """
-
-Standard library imports
 import os
 import re
 import time
